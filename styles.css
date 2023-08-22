@@ -30,6 +30,7 @@ body {
   gap: 24px;
   position: fixed;
   bottom: 32px;
+  margin-top: 16px;
 }
 
 .button {

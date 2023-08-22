@@ -23,7 +23,7 @@ var attr = tag.setAttribute("data", html);
 var firstScreen = document.getElementById("first-screen");
 var happyCat =  document.getElementById("happy-cat");
 var txt = text[0];
-var speed = 10;
+var speed = 100;
 
 var isClear = false
 
